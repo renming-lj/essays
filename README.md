@@ -1,5 +1,5 @@
 # essays
-随笔
+随笔  使用LocalStorage本地存储
 ## Project setup
 ```
 npm install
